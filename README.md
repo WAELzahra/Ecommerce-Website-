@@ -13,11 +13,9 @@ E-Commerce Website is a modern and responsive online shopping platform that allo
 ## 🛠️ Technologies Used  
   ### 🌐 Frontend  
   - **HTML5** – For structuring web pages.  
-  - **CSS3** – Styled using modern techniques (Flexbox, Grid, Animations).  
+  - **CSS3** – Styled using modern techniques.  
   - **JavaScript** – For interactive elements and cart functionality.  
   
   ### ⚙️ Backend  
-  - **Java (Spring Boot)** – Backend framework for handling business logic.  
-  - **Spring Security** – For authentication and authorization.  
-  - **Spring Data JPA** – For database interactions.  
+  - **Java** – Backend framework for handling business logic.  .  
   - **MySQL** – Relational database for storing products, users, and orders.  
